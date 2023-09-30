@@ -20,7 +20,7 @@ google-auth==2.15.0
 google-auth-oauthlib==0.4.6
 google-pasta==0.2.0
 graphviz==0.20.1
-grpcio==1.51.1
+grpcio==1.53.0
 h5py==3.7.0
 idna==3.4
 ipykernel==6.20.1
